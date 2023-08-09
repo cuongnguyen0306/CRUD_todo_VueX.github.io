@@ -45,7 +45,3 @@ npm run serve
 |       |-- README.md,
 |       |-- todoStore.js
 ```
-# 📷 Demo Screenshots
-<div name="screenshots" >
-    <img src="screenshots/vueDo.PNG" width="100%" height="100%" />
-</div>
