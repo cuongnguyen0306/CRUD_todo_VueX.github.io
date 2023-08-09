@@ -1,9 +1,4 @@
-📝 Table of Contents
-- [📙 About](#about)
-- [🏁 Install](#install)
-- [💻 Built using](#tech)
-- [📂 Folder Structure](#folderstructure)
-- [📷 Demo Screenshots](#screenshots)
+
 
 # 📙 About <a name = "about"></a>
 VueX Todo is a sample to do list using Vue.js and Vuex for state management.
